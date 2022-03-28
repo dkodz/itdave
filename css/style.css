@@ -1,0 +1,9 @@
+.site-bg {
+  background-image: url(../images/bulb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  width: 250px;
+}
